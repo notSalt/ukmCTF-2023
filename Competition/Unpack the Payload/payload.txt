@@ -1,0 +1,6 @@
+pw = input('What\'s the password? ')
+
+if pw == 'calpismango':
+  print('ukmCTF{pyth0n_pr0f35510na1}')
+else:
+  print('That password is incorrect.')
